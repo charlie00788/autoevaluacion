@@ -20,7 +20,7 @@
 
     {!! Form::close() !!}
     <p class="m-t">
-        <small>Escuela de Guerra Naval &copy; 2016</small>
+        <small>Escuela Naval Militar "V.Almte. Ronant Monje Roca" &copy; 2017</small>
     </p>
 </div>
 

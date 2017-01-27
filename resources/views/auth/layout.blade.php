@@ -27,7 +27,7 @@
         </div>
         <div class="col-md-8">
             <h2 class="font-bold" align="center">
-                Sistema de Gestión de la Escuela de Guerra Naval
+                Sistema de Autoevaluación de la Escuela Naval Militar "V.Almte. Ronant Monje Roca"
             </h2>
         </div>
         <div class="col-md-2">
@@ -40,18 +40,18 @@
 
             <p align="justify">
 
-            Bienvenidos al Sistema de Gestión de la Escuela de Guerra Naval,
+            Bienvenidos al Sistema de Autoevaluación de la Escuela Naval Militar "V.Almte. Ronant Monje Roca",
             donde podrás acceder a la gestión de datos.
 
         </p>
 
         <p align="justify">
-            La Escuela de Guerra Naval ha desarrollado el Sistema de Gestión
-            donde se realizará la gestión de datos de la Escuela de Guerra Naval.
+            La Escuela Naval Militar "V.Almte. Ronant Monje Roca" ha desarrollado el Sistema de Gestión
+            donde se realizará la gestión de datos de la Escuela Naval Militar "V.Almte. Ronant Monje Roca".
         </p>
 
         <p align="justify">
-            <small>Para poder ingresar al Sistema deberá registrarse en la Escuela de Guerra Naval
+            <small>Para poder ingresar al Sistema deberá registrarse en la Escuela Naval Militar "V.Almte. Ronant Monje Roca"
             donde se le asignará un usuario y contraseña, todo ingreso a la plataforma
                 estará registrado en el sistema.</small>
         </p>
