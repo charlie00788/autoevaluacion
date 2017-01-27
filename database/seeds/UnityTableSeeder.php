@@ -17,7 +17,7 @@ class UnityTableSeeder extends Seeder
     private function createUnity()
     {
         factory(\App\Entities\Unity::class)->create([
-            'unity' => 'Escuela de Guerra Naval'
+            'unity' => 'Escuela Naval Militar "V.Almte. Ronant Monje Roca"'
         ]);
 
         factory(\App\Entities\Unity::class)->create([

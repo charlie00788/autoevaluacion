@@ -6,7 +6,7 @@
         <ul class="nav navbar-top-links navbar-right">
             <li>
                 <span class="m-r-sm text-muted welcome-message">
-                    Escuela de Guerra Naval
+                    Escuela Naval Militar "V.Almte. Ronant Monje Roca"
                 </span>
             </li>
 

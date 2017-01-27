@@ -14,7 +14,7 @@
 
     <meta http-equiv=”Pragma” CONTENT=”no-cache”> --}}
 
-    <title>Escuela de Guerra Naval</title>
+    <title>Escuela Naval Militar</title>
 
     {!! Html::style('css/bootstrap.min.css') !!}
     {!! Html::style('font-awesome/css/font-awesome.css') !!}
@@ -41,7 +41,7 @@
                         @include('partials.profile')
 
                         <div class="logo-element">
-                            EGN
+                            ENM
                         </div>
                     </li>
 

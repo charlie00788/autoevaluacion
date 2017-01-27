@@ -3,6 +3,6 @@
         Desarrollado por TF. CGON. Charlie Seoane Sánchez
     </div>
     <div>
-        <strong>Copyright</strong> SeoSoft &copy;2016
+        <strong>Copyright</strong> SeoSoft &copy;2017
     </div>
 </div>
