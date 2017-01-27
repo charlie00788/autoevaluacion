@@ -18,7 +18,7 @@ class CreateEvaluationsTable extends Migration
             $table->increments('id');
             $table->unsignedInteger('year_id');
             $table->string('punto');
-            $table->float('nota', 3, 2);
+            $table->decimal('nota', 3, 2);
             $table->timestamps();
 
             $table->foreign('year_id')
